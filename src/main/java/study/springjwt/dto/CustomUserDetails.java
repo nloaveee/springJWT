@@ -7,7 +7,7 @@ import study.springjwt.entity.UserEntity;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
+
 
 public class CustomUserDetails implements UserDetails {
 
